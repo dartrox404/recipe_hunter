@@ -9,9 +9,9 @@ A cross-platform food recipe app built with Flutter, featuring real internet det
 ## 📱 Screenshots
 
 
-![Onboarding](assets/indi/Screenshot 2026-04-30 225008.png) -->
-![Home](assets/indi/Screenshot 2026-04-30 220618.png) -->
-![No Internet](assets/indi/Screenshot 2026-04-30 224928.png) -->
+![Onboarding](assets/indi/Screenshot 2026-04-30 225008.png)
+![Home](assets/indi/Screenshot 2026-04-30 220618.png)
+![NoInternet](assets/indi/Screenshot 2026-04-30 224928.png) 
 
 ---
 
